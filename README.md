@@ -28,3 +28,4 @@
    - Visualizes each sliced point cloud using Open3D's visualization functions.
 
 
+<iframe width="560" height="315" src="https://github.com/hasanyusuf01/Open3d/blob/main/Screencast%20from%2001-27-2024%2012%3A49%3A29%20AM.webm" frameborder="0" allowfullscreen></iframe>
