@@ -28,7 +28,7 @@
    - Visualizes each sliced point cloud using Open3D's visualization functions.
 
 **Output**
-The video below shows the slices of a 3D pointcloud of a sphere.
+The video below shows the slices of a 3D pointcloud of a sphere, for a slice angle of 72 degrees cutting the sphere in 5 slices.
 
 https://github.com/hasanyusuf01/Open3d/assets/96037958/8ff5ce40-d2f7-452b-9a02-8b89bc12915e
 
