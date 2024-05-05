@@ -1,4 +1,4 @@
-# Open3d
+# Open3d-Point Cloud Slicing
 
 
 **This code demonstrates how to extract and visualize slices from a 3D point cloud using Python and the Open3D library.**
